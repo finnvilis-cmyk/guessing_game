@@ -1,4 +1,4 @@
-print("Hello, COMP101 students!")
+print("Hello, Alice!")
 print("Do you want to play a guessing game with me?")
 
 while True:
